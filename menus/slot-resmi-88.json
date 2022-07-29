@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-resmi-88",
+        "command": "slot-resmi-88:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-resmi-88",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-resmi-88:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
